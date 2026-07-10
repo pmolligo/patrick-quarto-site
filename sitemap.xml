@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/index.html</loc>
-    <lastmod>2026-07-10T04:50:25.193Z</lastmod>
+    <loc>https://www.patrickmolligo.com/index.html</loc>
+    <lastmod>2026-07-10T05:13:43.772Z</lastmod>
   </url>
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/research/papers/gi-bill.html</loc>
-    <lastmod>2026-07-10T04:50:25.193Z</lastmod>
+    <loc>https://www.patrickmolligo.com/research/paper-listing.ejs.html</loc>
+    <lastmod>2026-07-10T05:13:43.773Z</lastmod>
   </url>
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/teaching.html</loc>
-    <lastmod>2026-07-10T04:50:25.193Z</lastmod>
+    <loc>https://www.patrickmolligo.com/research/papers/tpu.html</loc>
+    <lastmod>2026-07-10T05:13:43.774Z</lastmod>
   </url>
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/contact.html</loc>
-    <lastmod>2026-07-10T04:50:25.181Z</lastmod>
+    <loc>https://www.patrickmolligo.com/cv.html</loc>
+    <lastmod>2026-07-10T05:13:43.761Z</lastmod>
   </url>
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/cv.html</loc>
-    <lastmod>2026-07-10T04:50:25.181Z</lastmod>
+    <loc>https://www.patrickmolligo.com/contact.html</loc>
+    <lastmod>2026-07-10T05:13:43.761Z</lastmod>
   </url>
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/research/papers/tpu.html</loc>
-    <lastmod>2026-07-10T04:50:25.193Z</lastmod>
+    <loc>https://www.patrickmolligo.com/teaching.html</loc>
+    <lastmod>2026-07-10T05:13:43.774Z</lastmod>
   </url>
   <url>
-    <loc>https://pmolligo.github.io/patrick-quarto-site/research/index.html</loc>
-    <lastmod>2026-07-10T04:50:25.193Z</lastmod>
+    <loc>https://www.patrickmolligo.com/research/papers/gi-bill.html</loc>
+    <lastmod>2026-07-10T05:13:43.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.patrickmolligo.com/research/index.html</loc>
+    <lastmod>2026-07-10T05:13:43.773Z</lastmod>
   </url>
 </urlset>

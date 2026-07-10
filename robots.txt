@@ -1,1 +1,1 @@
-Sitemap: https://pmolligo.github.io/patrick-quarto-site/sitemap.xml
+Sitemap: https://www.patrickmolligo.com/sitemap.xml

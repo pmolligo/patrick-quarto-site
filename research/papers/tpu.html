@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="This paper studies whether geographic access to historically Black colleges and universities shaped the educational effects of the World War II and Korean War G.I. Bills.">
 
-<title>tpu – Patrick A. Molligo</title>
+<title>HBCUs, the G.I. Bill, and Black Educational Attainment – Patrick A. Molligo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -76,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -131,17 +132,80 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">HBCUs, the G.I. Bill, and Black Educational Attainment</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Economic History</div>
+    <div class="quarto-category">Economics of Education</div>
+    <div class="quarto-category">Race and Inequality</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    <p>This paper studies whether geographic access to historically Black colleges and universities shaped the educational effects of the World War II and Korean War G.I. Bills.</p>
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
 
+<div class="paper-page-links">
+<p><a href="../../files/papers/molligo-hbcu-gi-bill.pdf" class="btn btn-primary">Download PDF</a></p>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>This paper examines whether access to historically Black colleges and universities affected Black veterans’ ability to use G.I. Bill educational benefits.</p>
+<p>Replace this text with the current abstract.</p>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<p>The preliminary results indicate that G.I. Bill exposure had larger effects on college attendance and educational attainment in areas with greater access to HBCUs, although several estimates are imprecise.</p>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>Molligo, Patrick A. “HBCUs, the G.I. Bill, and Black Educational Attainment.” Working paper, 2026.</p>
 
-</main> <!-- /main -->
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{molligo2026,
+  author = {Molligo, Patrick A.},
+  title = {HBCUs, the {G.I.} {Bill,} and {Black} {Educational}
+    {Attainment}},
+  date = {2026},
+  url = {https://www.patrickmolligo.com/research/papers/tpu.html},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-molligo2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+Molligo, Patrick A. 2026. <span>“HBCUs, the G.I. Bill, and Black
+Educational Attainment.”</span> Preprint. <a href="https://www.patrickmolligo.com/research/papers/tpu.html">https://www.patrickmolligo.com/research/papers/tpu.html</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -215,7 +279,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/pmolligo\.github\.io\/patrick-quarto-site\/");
+        var filterRegex = new RegExp("https:\/\/www\.patrickmolligo\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -229,6 +293,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
