@@ -1,6 +1,5 @@
 ---
 title: "Research"
-description: "Research in labor economics, economic history, education, and workforce development."
 
 listing:
   contents:
