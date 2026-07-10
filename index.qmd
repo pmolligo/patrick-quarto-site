@@ -15,6 +15,10 @@ Applied microeconomist specializing in labor economics, economic history, and th
 
 I study education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.
 
+<div class="home-fields">
+  Labor Economics · Economic History · Economics of Education
+</div>
+
 <div class="home-links">
 
 <a href="https://scholar.google.com/citations?user=etF9XScAAAAJ" target="_blank" rel="noopener">

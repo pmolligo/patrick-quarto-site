@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Patrick A. Molligo",
     "section": "",
-    "text": "Applied microeconomist specializing in labor economics, economic history, and the economics of education.\nI study education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.\n\n  Scholar \n  GitHub \n  LinkedIn \n  Email"
+    "text": "Applied microeconomist specializing in labor economics, economic history, and the economics of education.\nI study education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.\n\nLabor Economics · Economic History · Economics of Education\n\n\n  Scholar \n  GitHub \n  LinkedIn \n  Email"
   },
   {
     "objectID": "contact.html",
@@ -222,5 +222,61 @@
     "title": "Patrick A. Molligo",
     "section": "",
     "text": "I am an economist specializing in applied microeconomics, labor economics, and economic history. My research examines education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.\n\n\n  CV \n  Scholar \n  GitHub \n  LinkedIn \n  Email"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software & Data",
+    "section": "",
+    "text": "Selected code and replication materials related to my research."
+  },
+  {
+    "objectID": "software.html#research-code",
+    "href": "software.html#research-code",
+    "title": "Software & Data",
+    "section": "",
+    "text": "Selected code and replication materials related to my research."
+  },
+  {
+    "objectID": "software.html#teaching-materials",
+    "href": "software.html#teaching-materials",
+    "title": "Software & Data",
+    "section": "Teaching materials",
+    "text": "Teaching materials\nSlides, assignments, datasets, and examples for economics and statistics courses."
+  },
+  {
+    "objectID": "software.html#stata",
+    "href": "software.html#stata",
+    "title": "Software & Data",
+    "section": "Stata",
+    "text": "Stata\n\nMapping and geographic visualization\nRegression and table-export workflows\nData cleaning utilities"
+  },
+  {
+    "objectID": "software.html#r",
+    "href": "software.html#r",
+    "title": "Software & Data",
+    "section": "R",
+    "text": "R\n\nData visualization\nReproducible examples\nTeaching demonstrations"
+  },
+  {
+    "objectID": "software.html#latex",
+    "href": "software.html#latex",
+    "title": "Software & Data",
+    "section": "LaTeX",
+    "text": "LaTeX\n\nBeamer templates\nEconomics table templates\nReferee-report templates"
+  },
+  {
+    "objectID": "blog/posts/first-post.html",
+    "href": "blog/posts/first-post.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I plan to use this space for short notes on economics, teaching, data work, and historical research."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Short notes on research, teaching, data, and academic workflows.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\nWebsite\n\nResearch\n\n\n\nA brief introduction to this blog.\n\n\n\n\n\nJul 10, 2026\n\n\n\n\n\nNo matching items"
   }
 ]

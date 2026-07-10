@@ -11,5 +11,11 @@
     "items": [
       "/teaching/courses/econ-105.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/first-post.html"
+    ]
   }
 ]

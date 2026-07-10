@@ -52,5 +52,11 @@
   },
   "blog/index.qmd": {
     "index.html": "7b1845ac"
+  },
+  "blog/posts/first-post.qmd": {
+    "first-post.html": "2dd43bc4"
+  },
+  "software.qmd": {
+    "software.html": "4f31303e"
   }
 }
