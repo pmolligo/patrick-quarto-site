@@ -1,47 +1,59 @@
 ---
-title: "HBCUs, the G.I. Bill, and Black Educational Attainment"
+title: "The economic effects of trade policy uncertainty"
 
 status: "Working Paper"
 year: 2026
 order: 2
 
 description: >
-  This paper studies whether geographic access to historically Black
-  colleges and universities shaped the educational effects of the
-  World War II and Korean War G.I. Bills.
+  This paper studies the effects of unexpected changes in trade policy uncertainty (TPU) on the U.S. economy. Three measures of TPU are constructed using newspaper coverage, firms’ earnings calls, and tariff rates. Firm-level and aggregate macroeconomic data reveal that increases in TPU reduce business investment. The empirical results are interpreted through the lens of a two-country general equilibrium model with nominal rigidities and firms’ export participation decisions. News and increased uncertainty about higher future tariffs reduce investment and activity.
 
-categories:
-  - Economic History
-  - Economics of Education
-  - Race and Inequality
-
-pdf: "../../files/papers/molligo-hbcu-gi-bill.pdf"
+pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0304393219302004?via%3Dihub"
 
 citation:
-  type: article
+  type: article-journal
+  title: "The Economic Effects Of Trade Policy Uncertainty"
+
   author:
+    - family: Caldara
+      given: Dario
+    - family: Iacoviello
+      given: Matteo
     - family: Molligo
-      given: Patrick A.
-  title: "HBCUs, the G.I. Bill, and Black Educational Attainment"
-  issued: 2026
+      given: Patrick
+    - family: Prestipino
+      given: Andrea
+    - family: Raffo
+      given: Andrea
+
+  container-title: "Journal of Monetary Economics"
+  volume: 109
+  page: "38--59"
+  issued:
+    year: 2020
+  DOI: "10.1016/j.jmoneco.2019.11.002"
+  URL: "https://doi.org/10.1016/j.jmoneco.2019.11.002"
+  status: "Published"
+
 ---
 
 ::: {.paper-page-links}
 
-[Download PDF](../../files/papers/molligo-hbcu-gi-bill.pdf){.btn .btn-primary}
+[Download PDF](https://doi.org/10.1016/j.jmoneco.2019.11.002){.btn .btn-primary}
 
 :::
 
 ## Abstract
 
-This paper examines whether access to historically Black colleges and universities affected Black veterans’ ability to use G.I. Bill educational benefits.
-
-Replace this text with the current abstract.
+This paper studies the effects of unexpected changes in trade policy uncertainty (TPU) on the U.S. economy. Three measures of TPU are constructed using newspaper coverage, firms’ earnings calls, and tariff rates. Firm-level and aggregate macroeconomic data reveal that increases in TPU reduce business investment. The empirical results are interpreted through the lens of a two-country general equilibrium model with nominal rigidities and firms’ export participation decisions. News and increased uncertainty about higher future tariffs reduce investment and activity.
 
 ## Results
+New measures of trade policy uncertainty are constructed using firm-level and aggregate data.
 
-The preliminary results indicate that G.I. Bill exposure had larger effects on college attendance and educational attainment in areas with greater access to HBCUs, although several estimates are imprecise.
+Trade policy uncertainty reduced U.S. investment by about 1.5% in 2018.
+
+Open-economy DSGE Model with heterogeneous firms and nominal rigidities analyzes news and uncertainty about future tariffs.
 
 ## Citation
 
-Molligo, Patrick A. “HBCUs, the G.I. Bill, and Black Educational Attainment.” Working paper, 2026.
+Caldara, Dario, Matteo Iacoviello, Patrick Molligo, Andrea Prestipino, and Andrea Raffo. "The economic effects of trade policy uncertainty." Journal of Monetary Economics 109 (2020): 38-59.

@@ -5,13 +5,8 @@ status: "Working Paper"
 year: 2026
 order: 99
 
-# Add only when applicable:
-# coauthors: "First Author and Second Author"
-# venue: "Journal Name, forthcoming"
-
 description: >
-  Write a concise two- or three-sentence description for the main
-  Research page. This should be shorter than the full abstract.
+  Write a short description for the main Research page.
 
 categories:
   - Labor Economics
@@ -19,52 +14,39 @@ categories:
 
 pdf: "../../files/papers/PAPER-FILENAME.pdf"
 
-# Delete or leave commented when unavailable:
+# Optional:
 # slides: "../../files/papers/SLIDES-FILENAME.pdf"
 # appendix: "../../files/papers/APPENDIX-FILENAME.pdf"
-# code: "https://github.com/USERNAME/REPOSITORY"
+# code: "https://github.com/pmolligo/REPOSITORY"
 
 citation:
   type: article
+  title: "PAPER TITLE"
   author:
     - family: Molligo
       given: Patrick A.
-  title: "PAPER TITLE"
   issued: 2026
+  url: "https://www.patrickmolligo.com/research/papers/PAGE-NAME.html"
 ---
 
 ::: {.paper-page-links}
 
 [Download PDF](../../files/papers/PAPER-FILENAME.pdf){.btn .btn-primary}
 
-<!-- Delete or leave commented when unavailable:
-
-[Slides](../../files/papers/SLIDES-FILENAME.pdf){.btn .btn-outline-primary}
-
-[Online appendix](../../files/papers/APPENDIX-FILENAME.pdf){.btn .btn-outline-primary}
-
-[Code](https://github.com/USERNAME/REPOSITORY){.btn .btn-outline-primary}
-
--->
-
 :::
 
 ## Abstract
 
-Paste the full abstract here.
+Paste the abstract here.
 
-## Results
+## Main findings
 
-Optionally provide a short, accessible summary of the main results.
+Provide a short summary of the paper’s results.
 
 ## Presentations
 
 - Seminar or conference, year
 
-## Media and coverage
-
-Delete this section when not applicable.
-
-## Citation
+## Suggested citation
 
 Molligo, Patrick A. “PAPER TITLE.” Working paper, 2026.
