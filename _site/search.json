@@ -25,14 +25,14 @@
     "href": "research/papers/gi-bill.html",
     "title": "The G.I. Bill and Vocational Training",
     "section": "",
-    "text": "This paper studies the effects of educational subsidies provided by the World War II and Korean War G.I. Bills on vocational-school completion.\nDownload the paper"
+    "text": "Download PDF"
   },
   {
     "objectID": "research/papers/gi-bill.html#abstract",
     "href": "research/papers/gi-bill.html#abstract",
     "title": "The G.I. Bill and Vocational Training",
-    "section": "",
-    "text": "This paper studies the effects of educational subsidies provided by the World War II and Korean War G.I. Bills on vocational-school completion.\nDownload the paper"
+    "section": "Abstract",
+    "text": "Abstract\nThe educational provisions of the World War II and Korean War G.I. Bills dramatically expanded access to postsecondary education and training. This paper examines their effects on vocational-school attendance and completion.\nReplace this paragraph with the current abstract from the paper. A paper-page abstract can be longer than the short description used on the Research page."
   },
   {
     "objectID": "index.html",
@@ -60,6 +60,62 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on labor economics, economic history, education, and workforce development.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe G.I. Bill and Vocational Training\n\n\nJob Market Paper\n\n\nThis paper examines how the World War II and Korean War G.I. Bills affected vocational education and long-run labor-market outcomes.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My research lies at the intersection of labor economics, economic history, and the economics of education. I study how public policy and educational institutions shape human-capital investment and labor-market outcomes.\n\n\n\n\n\n\n\n  \n\n    \n      \n        Job Market Paper\n      \n\n      \n        2026\n      \n    \n\n    \n      The G.I. Bill and Vocational Training\n    \n\n    \n\n    \n\n    \n      This paper studies how the educational provisions of the World War II and Korean War G.I. Bills affected vocational training, educational attainment, and long-run labor-market outcomes.\n\n    \n\n    \n\n      \n        Details\n      \n\n      \n        \n          PDF\n        \n      \n\n      \n\n      \n\n      \n\n    \n\n    \n      \n        \n          Labor Economics\n        \n          Economic History\n        \n          Economics of Education\n        \n      \n    \n\n  \n\n  \n\n    \n      \n        Working Paper\n      \n\n      \n        2026\n      \n    \n\n    \n      HBCUs, the G.I. Bill, and Black Educational Attainment\n    \n\n    \n\n    \n\n    \n      This paper studies whether geographic access to historically Black colleges and universities shaped the educational effects of the World War II and Korean War G.I. Bills.\n\n    \n\n    \n\n      \n        Details\n      \n\n      \n        \n          PDF\n        \n      \n\n      \n\n      \n\n      \n\n    \n\n    \n      \n        \n          Economic History\n        \n          Economics of Education\n        \n          Race and Inequality\n        \n      \n    \n\n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/papers/tpu.html",
+    "href": "research/papers/tpu.html",
+    "title": "HBCUs, the G.I. Bill, and Black Educational Attainment",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "research/papers/tpu.html#abstract",
+    "href": "research/papers/tpu.html#abstract",
+    "title": "HBCUs, the G.I. Bill, and Black Educational Attainment",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper examines whether access to historically Black colleges and universities affected Black veterans’ ability to use G.I. Bill educational benefits.\nReplace this text with the current abstract."
+  },
+  {
+    "objectID": "research/papers/tpu.html#results",
+    "href": "research/papers/tpu.html#results",
+    "title": "HBCUs, the G.I. Bill, and Black Educational Attainment",
+    "section": "Results",
+    "text": "Results\nThe preliminary results indicate that G.I. Bill exposure had larger effects on college attendance and educational attainment in areas with greater access to HBCUs, although several estimates are imprecise."
+  },
+  {
+    "objectID": "research/papers/tpu.html#citation",
+    "href": "research/papers/tpu.html#citation",
+    "title": "HBCUs, the G.I. Bill, and Black Educational Attainment",
+    "section": "Citation",
+    "text": "Citation\nMolligo, Patrick A. “HBCUs, the G.I. Bill, and Black Educational Attainment.” Working paper, 2026."
+  },
+  {
+    "objectID": "research/paper-listing.ejs.html",
+    "href": "research/paper-listing.ejs.html",
+    "title": "Patrick A. Molligo",
+    "section": "",
+    "text": "&lt;% for (const item of items) { %&gt;\n\n  \n\n    \n      &lt;% if (item.status) { %&gt;\n        &lt;%- item.status %&gt;\n      &lt;% } %&gt;\n\n      &lt;% if (item.year) { %&gt;\n        &lt;%- item.year %&gt;\n      &lt;% } %&gt;\n    \n\n    \n      &lt;%- item.title %&gt;\n    \n\n    &lt;% if (item.coauthors) { %&gt;\n      \n        With &lt;%= item.coauthors %&gt;\n      \n    &lt;% } %&gt;\n\n    &lt;% if (item.venue) { %&gt;\n      &lt;%= item.venue %&gt;\n    &lt;% } %&gt;\n\n    &lt;% if (item.description) { %&gt;\n      &lt;%= item.description %&gt;\n    &lt;% } %&gt;\n\n    \n\n      \n        Details\n      \n\n      &lt;% if (item.pdf) { %&gt;\n        \n          PDF\n        \n      &lt;% } %&gt;\n\n      &lt;% if (item.slides) { %&gt;\n        \n          Slides\n        \n      &lt;% } %&gt;\n\n      &lt;% if (item.appendix) { %&gt;\n        \n          Appendix\n        \n      &lt;% } %&gt;\n\n      &lt;% if (item.code) { %&gt;\n        \n          Code\n        \n      &lt;% } %&gt;\n\n    \n\n    &lt;% if (item.categories && item.categories.length &gt; 0) { %&gt;\n      \n        &lt;% for (const category of item.categories) { %&gt;\n          &lt;%- category %&gt;\n        &lt;% } %&gt;\n      \n    &lt;% } %&gt;\n\n  \n\n&lt;% } %&gt;"
+  },
+  {
+    "objectID": "research/papers/gi-bill.html#results",
+    "href": "research/papers/gi-bill.html#results",
+    "title": "The G.I. Bill and Vocational Training",
+    "section": "Results",
+    "text": "Results\nBriefly summarize the principal findings here. This section is optional, but it can help visitors understand the paper without opening the PDF."
+  },
+  {
+    "objectID": "research/papers/gi-bill.html#presentations",
+    "href": "research/papers/gi-bill.html#presentations",
+    "title": "The G.I. Bill and Vocational Training",
+    "section": "Presentations",
+    "text": "Presentations\n\nConference or seminar, year\nConference or seminar, year"
+  },
+  {
+    "objectID": "research/papers/gi-bill.html#citation",
+    "href": "research/papers/gi-bill.html#citation",
+    "title": "The G.I. Bill and Vocational Training",
+    "section": "Citation",
+    "text": "Citation\nMolligo, Patrick A. “The G.I. Bill and Vocational Training.” Working paper, 2026."
   }
 ]

@@ -1,0 +1,47 @@
+---
+title: "HBCUs, the G.I. Bill, and Black Educational Attainment"
+
+status: "Working Paper"
+year: 2026
+order: 2
+
+description: >
+  This paper studies whether geographic access to historically Black
+  colleges and universities shaped the educational effects of the
+  World War II and Korean War G.I. Bills.
+
+categories:
+  - Economic History
+  - Economics of Education
+  - Race and Inequality
+
+pdf: "../../files/papers/molligo-hbcu-gi-bill.pdf"
+
+citation:
+  type: article
+  author:
+    - family: Molligo
+      given: Patrick A.
+  title: "HBCUs, the G.I. Bill, and Black Educational Attainment"
+  issued: 2026
+---
+
+::: {.paper-page-links}
+
+[Download PDF](../../files/papers/molligo-hbcu-gi-bill.pdf){.btn .btn-primary}
+
+:::
+
+## Abstract
+
+This paper examines whether access to historically Black colleges and universities affected Black veterans’ ability to use G.I. Bill educational benefits.
+
+Replace this text with the current abstract.
+
+## Results
+
+The preliminary results indicate that G.I. Bill exposure had larger effects on college attendance and educational attainment in areas with greater access to HBCUs, although several estimates are imprecise.
+
+## Citation
+
+Molligo, Patrick A. “HBCUs, the G.I. Bill, and Black Educational Attainment.” Working paper, 2026.

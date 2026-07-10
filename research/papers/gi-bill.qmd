@@ -1,12 +1,67 @@
 ---
 title: "The G.I. Bill and Vocational Training"
-subtitle: "Job Market Paper"
-description: "This paper examines how the World War II and Korean War G.I. Bills affected vocational education and long-run labor-market outcomes."
-date: 2026-07-01
+
+status: "Job Market Paper"
+year: 2026
+order: 1
+
+description: >
+  This paper studies how the educational provisions of the World War II
+  and Korean War G.I. Bills affected vocational training, educational
+  attainment, and long-run labor-market outcomes.
+
+categories:
+  - Labor Economics
+  - Economic History
+  - Economics of Education
+
+pdf: "../../files/papers/molligo-gi-bill-vocational.pdf"
+
+# Uncomment these when the files or links exist:
+# slides: "../../files/papers/gi-bill-vocational-slides.pdf"
+# appendix: "../../files/papers/gi-bill-vocational-appendix.pdf"
+# code: "https://github.com/pmolligo/example-repository"
+
+citation:
+  type: article
+  author:
+    - family: Molligo
+      given: Patrick A.
+  title: "The G.I. Bill and Vocational Training"
+  issued: 2026
 ---
+
+::: {.paper-page-links}
+
+[Download PDF](../../files/papers/molligo-gi-bill-vocational.pdf){.btn .btn-primary}
+
+<!-- Add these buttons when available:
+
+[Slides](../../files/papers/gi-bill-vocational-slides.pdf){.btn .btn-outline-primary}
+
+[Online appendix](../../files/papers/gi-bill-vocational-appendix.pdf){.btn .btn-outline-primary}
+
+[Code](https://github.com/pmolligo/example-repository){.btn .btn-outline-primary}
+
+-->
+
+:::
 
 ## Abstract
 
-This paper studies the effects of educational subsidies provided by the World War II and Korean War G.I. Bills on vocational-school completion.
+The educational provisions of the World War II and Korean War G.I. Bills dramatically expanded access to postsecondary education and training. This paper examines their effects on vocational-school attendance and completion.
 
-[Download the paper](../../files/JMP_molligo_compressed.pdf){.btn .btn-primary}
+Replace this paragraph with the current abstract from the paper. A paper-page abstract can be longer than the short `description` used on the Research page.
+
+## Results
+
+Briefly summarize the principal findings here. This section is optional, but it can help visitors understand the paper without opening the PDF.
+
+## Presentations
+
+- Conference or seminar, year
+- Conference or seminar, year
+
+## Citation
+
+Molligo, Patrick A. “The G.I. Bill and Vocational Training.” Working paper, 2026.

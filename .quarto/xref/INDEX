@@ -25,5 +25,8 @@
   },
   "research/papers/tpu.qmd": {
     "tpu.html": "0fa3ab13"
+  },
+  "research/paper-listing.ejs.md": {
+    "paper-listing.ejs.html": "d9abc323"
   }
 }
