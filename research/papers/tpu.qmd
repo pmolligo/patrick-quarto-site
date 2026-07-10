@@ -2,7 +2,7 @@
 title: "The Economic Effects Of Trade Policy Uncertainty"
 
 status: "Working Paper"
-year: 2026
+year: 2020
 order: 2
 
 description: >
