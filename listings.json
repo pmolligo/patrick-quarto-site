@@ -6,6 +6,12 @@
     ]
   },
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/first-post.html"
+    ]
+  },
+  {
     "listing": "/research/index.html",
     "items": [
       "/research/papers/gi-bill.html",
