@@ -1,30 +1,65 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Patrick A. Molligo",
     "section": "",
-    "text": "Research interests and publications"
+    "text": "I am a Visiting Assistant Professor of Economics at Penn State University (Fall 2026–Spring 2028). My research interests include applied microeconmics and economic history.\nI received my Ph.D. in Economics at UCLA in June 2026."
+  },
+  {
+    "objectID": "research/papers/gi-bill.html",
+    "href": "research/papers/gi-bill.html",
+    "title": "The G.I. Bill and Vocational Training",
+    "section": "",
+    "text": "This paper studies the effects of educational subsidies provided by the World War II and Korean War G.I. Bills on vocational-school completion.\nDownload the paper"
+  },
+  {
+    "objectID": "research/papers/gi-bill.html#abstract",
+    "href": "research/papers/gi-bill.html#abstract",
+    "title": "The G.I. Bill and Vocational Training",
+    "section": "",
+    "text": "This paper studies the effects of educational subsidies provided by the World War II and Korean War G.I. Bills on vocational-school completion.\nDownload the paper"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching interests and courses"
+    "text": "Course description and semester information."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teaching.html#penn-state-university",
+    "href": "teaching.html#penn-state-university",
+    "title": "Teaching",
     "section": "",
-    "text": "About this site"
+    "text": "Course description and semester information."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
+    "objectID": "teaching.html#university-of-california-los-angeles",
+    "href": "teaching.html#university-of-california-los-angeles",
+    "title": "Teaching",
+    "section": "University of California, Los Angeles",
+    "text": "University of California, Los Angeles\n\nECON 105: Statistics for Economists\nInstructor, Fall 2025\n\nSyllabus\nTeaching evaluations\n\n\n\nAdditional teaching experience\nAdd courses, teaching-assistant positions, workshops, or student evaluations here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Patrick A. Molligo\nEmail: pmolligo@gmail.com\nGitHub: github.com/pmolligo\nFor questions about my research, teaching, or academic materials, please contact me by email."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV\n\n\nYour browser cannot display the PDF. Download the CV instead."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on labor economics, economic history, education, and workforce development.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe G.I. Bill and Vocational Training\n\n\nJob Market Paper\n\n\nThis paper examines how the World War II and Korean War G.I. Bills affected vocational education and long-run labor-market outcomes.\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

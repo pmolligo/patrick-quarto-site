@@ -1,1 +1,73 @@
-/* css styles */
+/* Overall page width and typography */
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Headings */
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+h1 {
+  margin-bottom: 1.25rem;
+}
+
+h2 {
+  margin-top: 2.25rem;
+}
+
+/* Navigation */
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+}
+
+/* Links */
+
+a {
+  text-underline-offset: 3px;
+}
+
+/* Buttons */
+
+.btn {
+  border-radius: 4px;
+  padding: 0.55rem 1rem;
+}
+
+/* Research listings */
+
+.quarto-listing {
+  margin-top: 2rem;
+}
+
+.quarto-listing .listing-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.quarto-listing .listing-description {
+  line-height: 1.55;
+}
+
+/* Footer */
+
+.nav-footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+}

@@ -70,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -91,13 +92,13 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="./research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -107,6 +108,17 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/pmolligo"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -142,9 +154,30 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Teaching interests and courses</p>
+<section id="penn-state-university" class="level2">
+<h2 class="anchored" data-anchor-id="penn-state-university">Penn State University</h2>
+<section id="course-title" class="level3">
+<h3 class="anchored" data-anchor-id="course-title">Course title</h3>
+<p>Course description and semester information.</p>
+</section>
+</section>
+<section id="university-of-california-los-angeles" class="level2">
+<h2 class="anchored" data-anchor-id="university-of-california-los-angeles">University of California, Los Angeles</h2>
+<section id="econ-105-statistics-for-economists" class="level3">
+<h3 class="anchored" data-anchor-id="econ-105-statistics-for-economists">ECON 105: Statistics for Economists</h3>
+<p>Instructor, Fall 2025</p>
+<ul>
+<li><a href="files/econ105_syllabus_fall2025_updated.pdf">Syllabus</a></li>
+<li><a href="files/econ105_syllabus_fall2025_updated.pdf">Teaching evaluations</a></li>
+</ul>
+</section>
+<section id="additional-teaching-experience" class="level3">
+<h3 class="anchored" data-anchor-id="additional-teaching-experience">Additional teaching experience</h3>
+<p>Add courses, teaching-assistant positions, workshops, or student evaluations here.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -548,8 +581,22 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Patrick A. Molligo</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Built with Quarto</p>
+</div>
+  </div>
+</footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
