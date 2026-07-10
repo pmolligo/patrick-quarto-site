@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/courses/econ-105.html"
+    ]
+  },
+  {
     "listing": "/research/index.html",
     "items": [
       "/research/papers/gi-bill.html",
