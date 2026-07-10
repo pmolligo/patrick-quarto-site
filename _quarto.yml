@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - script.js
 
 website:
   title: "Patrick A. Molligo"
@@ -7,23 +9,18 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: research/index.qmd
         text: Research
       - href: teaching/index.qmd
         text: Teaching
-      - href: cv.qmd
-        text: CV
       - href: blog/index.qmd
         text: Blog  
+      - href: files/molligo-cv.pdf
+        text: CV
       - href: contact.qmd
         text: Contact
 
-    right:
-      - icon: github
-        href: https://github.com/pmolligo
-        aria-label: GitHub
+  search: true      
 
   page-footer:
     left: "© 2026 Patrick A. Molligo"
@@ -36,3 +33,6 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    include-in-header:
+      text: |
+        <script defer src="script.js"></script>

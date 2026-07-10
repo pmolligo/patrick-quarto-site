@@ -37,6 +37,11 @@ h2 {
   font-weight: 500;
 }
 
+.navbar-brand {
+    font-weight: 700;
+    margin-right: 2rem;
+}
+
 /* Links */
 
 a {
@@ -393,3 +398,93 @@ a {
   }
 
 }
+
+
+/* --------------------------------------------------
+   Homepage hero
+-------------------------------------------------- */
+
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 150px;
+  align-items: start;
+  gap: 2rem;
+  max-width: 950px;
+  margin: 3rem auto 0;
+}
+
+.home-intro {
+  max-width: 660px;
+}
+
+.home-intro h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 2.7rem;
+  line-height: 1.1;
+}
+
+.home-intro > p:first-of-type {
+  margin-bottom: 1rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.home-intro p {
+  line-height: 1.7;
+}
+
+.home-photo img {
+  display: block;
+  width: 150px;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.home-photo {
+    padding-top: 1rem;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.home-links a {
+  color: var(--bs-secondary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.home-links a:hover {
+  color: var(--bs-primary);
+}
+
+.home-links i {
+  margin-right: 0.35rem;
+}
+
+@media (max-width: 700px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .home-photo {
+    grid-row: 1;
+  }
+
+  .home-photo img {
+    width: 130px;
+  }
+
+  .home-intro h1 {
+    font-size: 2.2rem;
+  }
+}
+

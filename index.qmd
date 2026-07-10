@@ -1,36 +1,50 @@
 ---
-title: "Patrick A. Molligo"
-subtitle: "Visiting Assistant Professor of Economics, Penn State University"
-image: images/main_headshot.jpg
+title: ""
+title-block: false
+page-layout: full
 body-classes: home
-
-about:
-  template: jolla
-  image-shape: rectangle
-  image-width: 15em
-
-  links:
-    - icon: file-earmark-pdf
-      text: CV
-      href: files/Molligo_CV.pdf
-
-    - icon: mortarboard
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=etF9XScAAAAJ      
-
-    - icon: github
-      text: GitHub
-      href: https://github.com/pmolligo
-
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/patrick-molligo 
-
-    - icon: envelope
-      text: Email
-      href: mailto:pmolligo@gmail.com
-
 ---
 
+:::: {.home-hero}
 
-I am an economist specializing in applied microeconomics, labor economics, and economic history. My research examines education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.
+::: {.home-intro}
+
+# Patrick A. Molligo
+
+Applied microeconomist specializing in labor economics, economic history, and the economics of education.
+
+I study education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.
+
+<div class="home-links">
+
+<a href="https://scholar.google.com/citations?user=etF9XScAAAAJ" target="_blank" rel="noopener">
+<i class="bi bi-mortarboard-fill"></i>
+Scholar
+</a>
+
+<a href="https://github.com/pmolligo" target="_blank" rel="noopener">
+<i class="bi bi-github"></i>
+GitHub
+</a>
+
+<a href="https://www.linkedin.com/in/patrick-molligo" target="_blank" rel="noopener">
+<i class="bi bi-linkedin"></i>
+LinkedIn
+</a>
+
+<a href="mailto:pmolligo@gmail.com">
+<i class="bi bi-envelope-fill"></i>
+Email
+</a>
+
+</div>
+
+:::
+
+::: {.home-photo}
+
+![](images/headshot.jpg){fig-alt="Portrait of Patrick A. Molligo"}
+
+:::
+
+::::

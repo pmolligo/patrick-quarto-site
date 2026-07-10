@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Patrick A. Molligo",
     "section": "",
-    "text": "I am an economist specializing in applied microeconomics, labor economics, and economic history. My research examines education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill."
+    "text": "Applied microeconomist specializing in labor economics, economic history, and the economics of education.\nI study education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.\n\n  Scholar \n  GitHub \n  LinkedIn \n  Email"
   },
   {
     "objectID": "contact.html",
@@ -53,7 +53,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download my CV\n\n\nYour browser cannot display the PDF. Download the CV instead."
+    "text": "Open CV in a new tab\nDownload CV"
   },
   {
     "objectID": "research/index.html",
@@ -215,5 +215,12 @@
     "title": "Patrick A. Molligo",
     "section": "Blog",
     "text": "Blog\nI write occasional notes on economics, teaching, data, historical research, and reproducible workflows.\nVisit the blog"
+  },
+  {
+    "objectID": "index.html#economist",
+    "href": "index.html#economist",
+    "title": "Patrick A. Molligo",
+    "section": "",
+    "text": "I am an economist specializing in applied microeconomics, labor economics, and economic history. My research examines education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.\n\n\n  CV \n  Scholar \n  GitHub \n  LinkedIn \n  Email"
   }
 ]
