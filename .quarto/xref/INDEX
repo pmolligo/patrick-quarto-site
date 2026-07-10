@@ -28,5 +28,29 @@
   },
   "research/paper-listing.ejs.md": {
     "paper-listing.ejs.html": "d9abc323"
+  },
+  "teaching/course-listing.ejs.md": {
+    "course-listing.ejs.html": "a0e91e6c"
+  },
+  "teaching/econ-105.qmd": {
+    "econ-105.html": "25a0e33a"
+  },
+  "teaching/index.md": {
+    "index.html": "c681143c"
+  },
+  "teaching/probability-stats.qmd": {
+    "probability-stats.html": "b73d8aef"
+  },
+  "teaching/index.qmd": {
+    "index.html": "6d63c07e"
+  },
+  "teaching/courses/econ-105.qmd": {
+    "econ-105.html": "7dd79cb5"
+  },
+  "templates/blog/index.qmd": {
+    "index.html": "6b6bfe52"
+  },
+  "blog/index.qmd": {
+    "index.html": "7b1845ac"
   }
 }

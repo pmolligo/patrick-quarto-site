@@ -11,10 +11,12 @@ website:
         text: Home
       - href: research/index.qmd
         text: Research
-      - href: teaching.qmd
+      - href: teaching/index.qmd
         text: Teaching
       - href: cv.qmd
         text: CV
+      - href: blog/index.qmd
+        text: Blog  
       - href: contact.qmd
         text: Contact
 

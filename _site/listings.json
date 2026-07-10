@@ -5,5 +5,11 @@
       "/research/papers/gi-bill.html",
       "/research/papers/tpu.html"
     ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/courses/econ-105.html"
+    ]
   }
 ]

@@ -1,0 +1,37 @@
+---
+title: "ECON 105: Statistics for Economists"
+
+institution: "UCLA"
+term: "Fall 2025"
+role: "Instructor"
+order: 1
+
+description: >
+  Undergraduate statistics course covering probability, random variables,
+  estimation, confidence intervals, hypothesis testing, and applied data analysis.
+
+syllabus: "../../files/teaching/econ105-syllabus.pdf"
+evaluations: "../../files/teaching/econ105-evaluations.pdf"
+---
+
+## Course overview
+
+This course introduces probability and statistical methods for economists, with an emphasis on intuition, applications, and data analysis.
+
+## Topics
+
+- Probability and conditional probability
+- Discrete and continuous random variables
+- Expected value and variance
+- Binomial, Poisson, uniform, and normal distributions
+- Central limit theorem
+- Confidence intervals
+- Hypothesis testing
+- Introductory data analysis in Excel and R
+
+## Materials
+
+- [Syllabus](../../files/teaching/econ105_syllabus_fall2025_updated.pdf)
+- [Lecture slides](#)
+- [Practice problems](#)
+- [Data exercises](#)
