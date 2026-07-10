@@ -1,5 +1,5 @@
 ---
-title: "The economic effects of trade policy uncertainty"
+title: "The Economic Effects Of Trade Policy Uncertainty"
 
 status: "Working Paper"
 year: 2026
