@@ -1,5 +1,5 @@
 ---
-title: "ECON 105: Statistics for Economists"
+title: "ECON 105: Introduction to Mathematical Economics"
 
 institution: "UCLA"
 term: "Fall 2025"
@@ -11,12 +11,11 @@ description: >
   estimation, confidence intervals, hypothesis testing, and applied data analysis.
 
 syllabus: "../../files/teaching/econ105-syllabus.pdf"
-evaluations: "../../files/teaching/econ105-evaluations.pdf"
 ---
 
 ## Course overview
 
-This course introduces probability and statistical methods for economists, with an emphasis on intuition, applications, and data analysis.
+This course covers the essential mathematical and computing skills needed to study modern economics. We will review both differential and integral calculus (first derivatives, partial derivatives, optimization, integration), as well as the basics of Excel and R (a statistical programming language).
 
 ## Topics
 
@@ -31,7 +30,7 @@ This course introduces probability and statistical methods for economists, with 
 
 ## Materials
 
-- [Syllabus](../../files/teaching/econ105_syllabus_fall2025_updated.pdf)
+- [Syllabus](../../files/teaching/econ105-syllabus.pdf)
 - [Lecture slides](#)
 - [Practice problems](#)
 - [Data exercises](#)

@@ -60,19 +60,19 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "My research lies at the intersection of labor economics, economic history, and the economics of education. I study how public policy and educational institutions shape human-capital investment and labor-market outcomes.\n\n\n\n\n\n\n\n  \n\n    \n      \n        Job Market Paper\n      \n\n      \n        2026\n      \n    \n\n    \n      The G.I. Bill and Vocational Training\n    \n\n    \n\n    \n\n    \n      This paper studies how the educational provisions of the World War II and Korean War G.I. Bills affected vocational training, educational attainment, and long-run labor-market outcomes.\n\n    \n\n    \n\n      \n        Details\n      \n\n      \n        \n          PDF\n        \n      \n\n      \n\n      \n\n      \n\n    \n\n    \n      \n        \n          Labor Economics\n        \n          Economic History\n        \n          Economics of Education\n        \n      \n    \n\n  \n\n  \n\n    \n      \n        Working Paper\n      \n\n      \n        2026\n      \n    \n\n    \n      The economic effects of trade policy uncertainty\n    \n\n    \n\n    \n\n    \n      This paper studies the effects of unexpected changes in trade policy uncertainty (TPU) on the U.S. economy. Three measures of TPU are constructed using newspaper coverage, firms’ earnings calls, and tariff rates. Firm-level and aggregate macroeconomic data reveal that increases in TPU reduce business investment. The empirical results are interpreted through the lens of a two-country general equilibrium model with nominal rigidities and firms’ export participation decisions. News and increased uncertainty about higher future tariffs reduce investment and activity.\n\n    \n\n    \n\n      \n        Details\n      \n\n      \n        \n          PDF\n        \n      \n\n      \n\n      \n\n      \n\n    \n\n    \n\n  \n\n\nNo matching items"
+    "text": "My research lies at the intersection of labor economics, economic history, and the economics of education. I study how public policy and educational institutions shape human-capital investment and labor-market outcomes.\n\n\n\n\n\n\n\n  \n\n    \n      \n        Job Market Paper\n      \n\n      \n        2026\n      \n    \n\n    \n      The G.I. Bill and Vocational Training\n    \n\n    \n\n    \n\n    \n      This paper studies how the educational provisions of the World War II and Korean War G.I. Bills affected vocational training, educational attainment, and long-run labor-market outcomes.\n\n    \n\n    \n\n      \n        Details\n      \n\n      \n        \n          PDF\n        \n      \n\n      \n\n      \n\n      \n\n    \n\n    \n\n  \n\n  \n\n    \n      \n        Published\n      \n\n      \n        2020\n      \n    \n\n    \n      The Economic Effects Of Trade Policy Uncertainty\n    \n\n    \n\n    \n\n    \n      This paper studies the effects of unexpected changes in trade policy uncertainty (TPU) on the U.S. economy. Three measures of TPU are constructed using newspaper coverage, firms’ earnings calls, and tariff rates. Firm-level and aggregate macroeconomic data reveal that increases in TPU reduce business investment. The empirical results are interpreted through the lens of a two-country general equilibrium model with nominal rigidities and firms’ export participation decisions. News and increased uncertainty about higher future tariffs reduce investment and activity.\n\n    \n\n    \n\n      \n        Details\n      \n\n      \n        \n          PDF\n        \n      \n\n      \n\n      \n\n      \n\n    \n\n    \n\n  \n\n\nNo matching items"
   },
   {
     "objectID": "research/papers/tpu.html",
     "href": "research/papers/tpu.html",
-    "title": "The economic effects of trade policy uncertainty",
+    "title": "The Economic Effects Of Trade Policy Uncertainty",
     "section": "",
     "text": "Download PDF"
   },
   {
     "objectID": "research/papers/tpu.html#abstract",
     "href": "research/papers/tpu.html#abstract",
-    "title": "The economic effects of trade policy uncertainty",
+    "title": "The Economic Effects Of Trade Policy Uncertainty",
     "section": "Abstract",
     "text": "Abstract\nThis paper studies the effects of unexpected changes in trade policy uncertainty (TPU) on the U.S. economy. Three measures of TPU are constructed using newspaper coverage, firms’ earnings calls, and tariff rates. Firm-level and aggregate macroeconomic data reveal that increases in TPU reduce business investment. The empirical results are interpreted through the lens of a two-country general equilibrium model with nominal rigidities and firms’ export participation decisions. News and increased uncertainty about higher future tariffs reduce investment and activity."
   },
@@ -278,5 +278,12 @@
     "title": "Blog",
     "section": "",
     "text": "Short notes on research, teaching, data, and academic workflows.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\nWebsite\n\nResearch\n\n\n\nA brief introduction to this blog.\n\n\n\n\n\nJul 10, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/papers/tpu.html#code-and-data",
+    "href": "research/papers/tpu.html#code-and-data",
+    "title": "The Economic Effects Of Trade Policy Uncertainty",
+    "section": "Code and Data",
+    "text": "Code and Data\nThe code and data used in this paper are available at https://www.matteoiacoviello.com/tpu.htm."
   }
 ]

@@ -10,11 +10,6 @@ description: >
   and Korean War G.I. Bills affected vocational training, educational
   attainment, and long-run labor-market outcomes.
 
-categories:
-  - Labor Economics
-  - Economic History
-  - Economics of Education
-
 pdf: "../../files/papers/molligo-gi-bill-vocational.pdf"
 
 # Uncomment these when the files or links exist:
@@ -49,19 +44,8 @@ citation:
 
 ## Abstract
 
-The educational provisions of the World War II and Korean War G.I. Bills dramatically expanded access to postsecondary education and training. This paper examines their effects on vocational-school attendance and completion.
-
-Replace this paragraph with the current abstract from the paper. A paper-page abstract can be longer than the short `description` used on the Research page.
+This paper examines the impact of subsidies for vocational training on take-up rates and long-term labor market outcomes by studying the first large-scale public subsidy programs in the United States—–the World War II and Korean War G.I. Bills. Previous research emphasizes that these programs expanded college and high school attainment. I show that they also substantially increased vocational training, a key but overlooked channel through which the G.I. Bill affected human capital formation. Using variation in military service across birth cohorts as an exogenous source of eligibility, I estimate that G.I. Bill benefits increased vocational school completion by 4–9% for World War II veterans and 3–7% for Korean War veterans, with stronger effects in the South and among older beneficiaries. The results suggest that federal subsidies for education not only expanded traditional higher education but also directed many veterans toward trade school—–broadening access to job-specific skills and reshaping the composition of postwar training and employment.
 
 ## Results
 
-Briefly summarize the principal findings here. This section is optional, but it can help visitors understand the paper without opening the PDF.
 
-## Presentations
-
-- Conference or seminar, year
-- Conference or seminar, year
-
-## Citation
-
-Molligo, Patrick A. “The G.I. Bill and Vocational Training.” Working paper, 2026.

@@ -1,7 +1,7 @@
 ---
 title: "The Economic Effects Of Trade Policy Uncertainty"
 
-status: "Working Paper"
+status: "Published"
 year: 2020
 order: 2
 
@@ -33,13 +33,12 @@ citation:
     year: 2020
   DOI: "10.1016/j.jmoneco.2019.11.002"
   URL: "https://doi.org/10.1016/j.jmoneco.2019.11.002"
-  status: "Published"
 
 ---
 
 ::: {.paper-page-links}
 
-[Download PDF](https://doi.org/10.1016/j.jmoneco.2019.11.002){.btn .btn-primary}
+[Download PDF](../../files/papers/TPU_PAPER.pdf){.btn .btn-primary}
 
 :::
 
@@ -47,13 +46,6 @@ citation:
 
 This paper studies the effects of unexpected changes in trade policy uncertainty (TPU) on the U.S. economy. Three measures of TPU are constructed using newspaper coverage, firms’ earnings calls, and tariff rates. Firm-level and aggregate macroeconomic data reveal that increases in TPU reduce business investment. The empirical results are interpreted through the lens of a two-country general equilibrium model with nominal rigidities and firms’ export participation decisions. News and increased uncertainty about higher future tariffs reduce investment and activity.
 
-## Results
-New measures of trade policy uncertainty are constructed using firm-level and aggregate data.
+## Code and Data
 
-Trade policy uncertainty reduced U.S. investment by about 1.5% in 2018.
-
-Open-economy DSGE Model with heterogeneous firms and nominal rigidities analyzes news and uncertainty about future tariffs.
-
-## Citation
-
-Caldara, Dario, Matteo Iacoviello, Patrick Molligo, Andrea Prestipino, and Andrea Raffo. "The economic effects of trade policy uncertainty." Journal of Monetary Economics 109 (2020): 38-59.
+The code and data used in this paper are available at [https://www.matteoiacoviello.com/tpu.htm](https://www.matteoiacoviello.com/tpu.htm)
