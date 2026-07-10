@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.patrickmolligo.com/teaching/index.html</loc>
+    <lastmod>2026-07-10T20:25:57.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.patrickmolligo.com/teaching/course-listing.ejs.html</loc>
+    <lastmod>2026-07-10T18:16:15.671Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.patrickmolligo.com/research/papers/tpu.html</loc>
     <lastmod>2026-07-10T23:17:49.641Z</lastmod>
   </url>
@@ -13,6 +21,18 @@
     <lastmod>2026-07-10T20:03:20.744Z</lastmod>
   </url>
   <url>
+    <loc>https://www.patrickmolligo.com/blog/posts/first-post.html</loc>
+    <lastmod>2026-07-10T20:01:18.004Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.patrickmolligo.com/blog/index.html</loc>
+    <lastmod>2026-07-10T20:35:15.189Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.patrickmolligo.com/contact.html</loc>
+    <lastmod>2026-07-10T20:34:59.870Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.patrickmolligo.com/research/index.html</loc>
     <lastmod>2026-07-10T20:25:48.713Z</lastmod>
   </url>
@@ -21,47 +41,11 @@
     <lastmod>2026-07-10T23:19:20.995Z</lastmod>
   </url>
   <url>
-    <loc>https://www.patrickmolligo.com/teaching.html</loc>
-    <lastmod>2026-07-10T04:44:18.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/teaching/probability-stats.html</loc>
-    <lastmod>2026-07-10T18:14:27.325Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/teaching/econ-105.html</loc>
-    <lastmod>2026-07-10T18:17:06.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/teaching/course-listing.ejs.html</loc>
-    <lastmod>2026-07-10T18:16:15.671Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/teaching/index.html</loc>
-    <lastmod>2026-07-10T20:25:57.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/cv.html</loc>
-    <lastmod>2026-07-10T18:59:16.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/teaching/courses/econ-105.html</loc>
-    <lastmod>2026-07-10T18:17:06.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/contact.html</loc>
-    <lastmod>2026-07-10T20:34:59.870Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.patrickmolligo.com/software.html</loc>
     <lastmod>2026-07-10T20:02:51.834Z</lastmod>
   </url>
   <url>
-    <loc>https://www.patrickmolligo.com/blog/posts/first-post.html</loc>
-    <lastmod>2026-07-10T20:01:18.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.patrickmolligo.com/blog/index.html</loc>
-    <lastmod>2026-07-10T20:35:15.189Z</lastmod>
+    <loc>https://www.patrickmolligo.com/teaching/courses/econ-105.html</loc>
+    <lastmod>2026-07-10T23:27:26.574Z</lastmod>
   </url>
 </urlset>
