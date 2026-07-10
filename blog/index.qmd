@@ -1,6 +1,5 @@
 ---
 title: "Blog"
-description: "Notes on economics, teaching, data, and research."
 
 listing:
   contents:

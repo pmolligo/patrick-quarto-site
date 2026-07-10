@@ -2,10 +2,8 @@
 title: "Contact"
 ---
 
-**Patrick A. Molligo**
+**Patrick A. Molligo, Ph.D.**
 
 Email: [pmolligo@gmail.com](mailto:pmolligo@gmail.com)
-
-GitHub: [github.com/pmolligo](https://github.com/pmolligo)
 
 For questions about my research, teaching, or academic materials, please contact me by email.
