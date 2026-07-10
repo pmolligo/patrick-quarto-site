@@ -3,21 +3,32 @@ project:
 
 website:
   title: "Patrick A. Molligo"
+
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
+      - href: research/index.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
       - href: cv.qmd
         text: CV
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - icon: github
+        href: https://github.com/pmolligo
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Patrick A. Molligo"
+    right: "Built with Quarto"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
-
-
+    smooth-scroll: true

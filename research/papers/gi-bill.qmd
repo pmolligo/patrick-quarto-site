@@ -1,0 +1,12 @@
+---
+title: "The G.I. Bill and Vocational Training"
+subtitle: "Job Market Paper"
+description: "This paper examines how the World War II and Korean War G.I. Bills affected vocational education and long-run labor-market outcomes."
+date: 2026-07-01
+---
+
+## Abstract
+
+This paper studies the effects of educational subsidies provided by the World War II and Korean War G.I. Bills on vocational-school completion.
+
+[Download the paper](../../files/JMP_molligo_compressed.pdf){.btn .btn-primary}

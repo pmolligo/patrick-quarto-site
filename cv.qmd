@@ -1,4 +1,16 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
+[Download my CV](files/Molligo_CV.pdf){.btn .btn-primary}
+
+<object
+  data="files/molligo-cv.pdf"
+  type="application/pdf"
+  width="100%"
+  height="900px">
+  <p>
+    Your browser cannot display the PDF.
+    <a href="files/Molligo_CV.pdf">Download the CV instead.</a>
+  </p>
+</object>

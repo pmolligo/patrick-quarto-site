@@ -1,0 +1,16 @@
+---
+title: "Research"
+listing:
+  contents:
+    - papers
+  type: default
+  sort: "date desc"
+  fields:
+    - title
+    - subtitle
+    - description
+  categories: false
+  feed: false
+---
+
+My research focuses on labor economics, economic history, education, and workforce development.

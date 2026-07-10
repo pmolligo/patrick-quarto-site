@@ -2,4 +2,21 @@
 title: "Teaching"
 ---
 
-Teaching interests and courses
+## Penn State University
+
+### Course title
+
+Course description and semester information.
+
+## University of California, Los Angeles
+
+### ECON 105: Statistics for Economists
+
+Instructor, Fall 2025
+
+- [Syllabus](files/econ105_syllabus_fall2025_updated.pdf)
+- [Teaching evaluations](files/econ105_syllabus_fall2025_updated.pdf)
+
+### Additional teaching experience
+
+Add courses, teaching-assistant positions, workshops, or student evaluations here.

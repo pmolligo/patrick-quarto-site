@@ -1,7 +1,21 @@
 ---
-title: "website"
+title: "Patrick A. Molligo"
+subtitle: "Economist"
+image: images/headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:pmolligo@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/pmolligo
+    - icon: file-earmark-pdf
+      text: Curriculum Vitae
+      href: files/Molligo_CV.pdf
 ---
 
-This is a Quarto website.
+I am a Visiting Assistant Professor of Economics at Penn State University (Fall 2026–Spring 2028). My research interests include applied microeconmics and economic history.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I received my Ph.D. in Economics at UCLA in June 2026.
