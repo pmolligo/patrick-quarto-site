@@ -25,5 +25,3 @@ Slides, assignments, datasets, and examples for economics and statistics courses
 ## LaTeX
 
 - Beamer templates
-- Economics table templates
-- Referee-report templates
