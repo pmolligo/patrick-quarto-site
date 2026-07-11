@@ -11,13 +11,15 @@ body-classes: home
 
 # Patrick A. Molligo
 
-Applied microeconomist specializing in labor economics, economic history, and the economics of education.
+Applied microeconomist specializing in labor economics and economic history.
 
-I study education, workforce development, and public policy, with particular attention to vocational training and the G.I. Bill.
+I am a Visiting Assistant Professor of Economics at Penn State University (Fall 2026–Spring 2028).
 
-<div class="home-fields">
+I received my Ph.D. in Economics at UCLA in June 2026.
+
+<!-- <div class="home-fields">
   Labor Economics · Economic History · Economics of Education
-</div>
+</div> -->
 
 <div class="home-links">
 
